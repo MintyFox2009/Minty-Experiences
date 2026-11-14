@@ -1,0 +1,14 @@
+{
+  "games": [
+    {
+      "id": "cool-game",
+      "name": "Cool Game",
+      "version": "1.0.2",
+      "description": "A short blurb shown on the right side of the store.",
+      "image": "https://raw.githubusercontent.com/YOURNAME/YOURREPO/main/games/cool-game/cover.png",
+      "zip": "https://github.com/YOURNAME/YOURREPO/releases/download/cool-game-1.0.2/CoolGame.zip",
+      "sizeBytes": 48211034,
+      "sha256": ""
+    }
+  ]
+}
