@@ -5,8 +5,8 @@
       "name": "Cool Game",
       "version": "1.0.2",
       "description": "A short blurb shown on the right side of the store.",
-      "image": "https://raw.githubusercontent.com/YOURNAME/YOURREPO/main/games/cool-game/cover.png",
-      "zip": "https://github.com/YOURNAME/YOURREPO/releases/download/cool-game-1.0.2/CoolGame.zip",
+      "image": "https://github.com/MintyFox2009/Minty-Experiences/blob/main/1692f441fd8ca37d2ddaf8370cbd22bd.jpg",
+      "zip": "https://github.com/MintyFox2009/Minty-Experiences/releases/download/ULTRAKILL_Prelude/ULTRAKILL.zip",
       "sizeBytes": 48211034,
       "sha256": ""
     }
